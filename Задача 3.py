@@ -4,7 +4,7 @@
 # - x=2; y=4-> 1
 # - x=-34; y=-30 -> 3
 
-x = int(input('введите x: '))
+x = int(input('Введите x: '))
 y = int(input('Введите y '))
 if x > 0 and y > 0:
     print(1)
